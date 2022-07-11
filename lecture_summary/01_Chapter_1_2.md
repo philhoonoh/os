@@ -11,6 +11,7 @@
   - a software that manages a computer's hardware
   - It also provides a basis for application programs and
     - acts as an intermediary between the computer user and the computer hardware.
+  - `KERNEL` 이라고도 불림
 
 * 컴퓨터란?  
   - A computer is a mahcine that processes the __INFORMATION__  
@@ -55,17 +56,58 @@
     - Instruction Set Architecture
       - program is a set of instructions
       - Instruction으로 하드웨어를 구동
-      
+    - 작동 방법
+      - 먼저 메모리에서 명령어들을 읽기
+      - 명령어들을 IR(Insturction Register)에 저장
+      - 피연산들을 메모리에서 읽기 
+      - internal register에 저장 
+      - 연산 실행
+      - 연산 실행후 메모리에 결과 값 저장
 
 * 운영체제도 프로그램
   - 항상 컴퓨터에서 실행되는 프로그램
   - application program 이 동작하기 위해 필요
   - process, resource, user interfaces 등을 관리하는 프로그램  
 
+
 * 컴퓨터 시스템의 구조
   - Hardware
   - Operating System
   - Application Program
   - User
-![Components of Computer System](../images/01_1.png)
-![Components of Computer System](../images/01_1.png)
+![Components of Computer System](../images/01_2.png)
+
+* __boostrahp__ program
+  - 컴퓨터가 시작할때 실행되는 프로그램으로써 OS를 실행시키기 위한 프로그램
+  - ROM 에 저장되어 있음
+
+* __Interrupts__
+  - I/O device 등에서 CPU 에 신호를 보내는 작업 
+
+* starge (용량, 속도 순)
+  * register
+  * cache
+  * main memory(RAM)
+  * solid-state disk
+  * hard disk
+  * optical disk
+  * magnetic tapes
+
+* OS의 대부분은 I/O를 관리하는데 사용
+
+* Definitions of Computer System Components   
+  - CPU : The hardware that executes instructions.  
+  - Processor : A physical chip that contains one or more CPUs.
+  - Core : The back computation unit of the CPU.
+  - Multicore - Including multiple computing cores on the same CPU
+  - Multiprocessor - Including multiple processors.
+
+* Symmetric multiprocessing (SMP)
+  * The most common multiprocessor systems,
+    * in which each peer CPU processor performs all tasks.
+![Components of Computer System](../images/01_3.png)
+    * 
+* Multi-core design
+  * with several cores on the same processor chip.
+![Components of Computer System](../images/01_4.png)
+
