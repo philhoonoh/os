@@ -10,8 +10,7 @@
   - __process__, resource, user interfaces 등을 관리하는 프로그램
   - 예) 리눅스, 윈도우, Mac OS
   - a software that manages a computer's hardware
-  - It also provides a basis for application programs and
-    - acts as an intermediary between the computer user and the computer hardware.
+  - It also provides a basis for application programs and acts as an intermediary between the computer user and the computer hardware.
   - `KERNEL` 이라고도 불림
 
 * 컴퓨터란?  
@@ -22,8 +21,8 @@
   - $I(x) = -\log_{2}{P(x)}$ called `bit(binary digit)`
   - `놀람의 정도` - 해당 사건의 확률이 낮을수록, 더 많은 정보량을 나타냄 
     - 잘 일어나지 않은 사건의 정보는 자주 발생할만한 사건보다 정보량이 많다는 것을 의미
-  - 예1. 알파벳을 표시하기 위한 정보량은?
-    - 알파벳은 총 26글자 이므로 $I(x) = -\log_{2}{26} < 5$ 즉 약 5bit 로 표현 가능
+  - 예1. 사건 X가 일어날 확률이 1/32 라 했을때 해당 사건의 정보량은?
+    - $I(x) = -\log_{2}{1/32} = 5$ 즉 5bit 의 정보량이 있음
   - Shannon entropy : 모든 사건의 정보량의 기대값
     $$ H(X) = -\sum_{i=1}^{n} P(x_{i})log_{2}{P(x_{i})} $$  
     $$ H(X) = -E_{X\~P}{I(X)} = -E_{X\~P}{log{P(X)}} $$
