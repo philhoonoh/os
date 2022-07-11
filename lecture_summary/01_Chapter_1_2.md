@@ -4,7 +4,14 @@
 * 운영체제란?
   - An operating system is a __software that operates a computer system__
   - HW 상에서 SW 가 돌아 가도록 자원을 관리 역할 
-        
+  - 항상 컴퓨터에서 실행되고 있는 프로그램
+  - application program 이 동작하기 위해 필요
+  - __process__, resource, user interfaces 등을 관리하는 프로그램
+  - 예) 리눅스, 윈도우, Mac OS
+  - a software that manages a computer's hardware
+  - It also provides a basis for application programs and
+    - acts as an intermediary between the computer user and the computer hardware.
+
 * 컴퓨터란?  
   - A computer is a mahcine that processes the __INFORMATION__  
 
@@ -38,8 +45,27 @@
     
 * 컴퓨터의 할아버지 
   - Alan Turing - Turing Machine
-  - 
 ![Turing Machine](../images/01_1.png)
 
 * 컴퓨터의 아버지 
-  - John von Neumann - ISA (Instruction Set Architecture)
+  - John von Neumann 
+    - stored-program 
+      - a computer that stores programs in a memory
+      - RAM과 CPU
+    - Instruction Set Architecture
+      - program is a set of instructions
+      - Instruction으로 하드웨어를 구동
+      
+
+* 운영체제도 프로그램
+  - 항상 컴퓨터에서 실행되는 프로그램
+  - application program 이 동작하기 위해 필요
+  - process, resource, user interfaces 등을 관리하는 프로그램  
+
+* 컴퓨터 시스템의 구조
+  - Hardware
+  - Operating System
+  - Application Program
+  - User
+![Components of Computer System](../images/01_1.png)
+![Components of Computer System](../images/01_1.png)
