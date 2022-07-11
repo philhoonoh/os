@@ -38,6 +38,8 @@
     
 * 컴퓨터의 할아버지 
   - Alan Turing - Turing Machine
+  - 
+![Turing Machine](./images/01_1.png)
 
 * 컴퓨터의 아버지 
   - John von Neumann - ISA (Instruction Set Architecture)
