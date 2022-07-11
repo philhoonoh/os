@@ -49,6 +49,8 @@
 * 컴퓨터의 할아버지 
   - Alan Turing - Turing Machine
 ![Turing Machine](../images/01_1.png)
+![Turing Machine](https://github.com/philhoonoh/os/blob/main/images/01_1.png)
+
 
 * 컴퓨터의 아버지 
   - John von Neumann 
@@ -76,7 +78,8 @@
   - Hardware
   - Operating System
   - Application Program
-  - User
+  - User  
+  
 ![Components of Computer System](../images/01_2.png)
 
 * __bootstrap__ program
@@ -115,10 +118,12 @@
 * Symmetric multiprocessing (SMP)
   * The most common multiprocessor systems,
     * in which each peer CPU processor performs all tasks.
+    
 ![SMP](../images/01_3.png)
     
 * Multi-core design
   * with several cores on the same processor chip.
+  
 ![Multi-core design](../images/01_4.png)
 
 ### Multi- 정리
