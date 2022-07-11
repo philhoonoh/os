@@ -48,7 +48,6 @@
 ### 컴퓨터의 할아버지 & 컴퓨터의 아버지 
 * 컴퓨터의 할아버지 
   - Alan Turing - Turing Machine
-![Turing Machine](../images/01_1.png)
 ![Turing Machine](https://github.com/philhoonoh/os/blob/main/images/01_1.png)
 
 
@@ -80,7 +79,7 @@
   - Application Program
   - User  
   
-![Components of Computer System](../images/01_2.png)
+![Components of Computer System](https://github.com/philhoonoh/os/blob/main/images/01_2.png)
 
 * __bootstrap__ program
   - 컴퓨터가 시작할때 실행되는 프로그램으로써 OS를 실행시키기 위한 프로그램
@@ -119,12 +118,12 @@
   * The most common multiprocessor systems,
     * in which each peer CPU processor performs all tasks.
     
-![SMP](../images/01_3.png)
+![SMP](https://github.com/philhoonoh/os/blob/main/images/01_3.png)
     
 * Multi-core design
   * with several cores on the same processor chip.
   
-![Multi-core design](../images/01_4.png)
+![Multi-core design](https://github.com/philhoonoh/os/blob/main/images/01_4.png)
 
 ### Multi- 정리
 * Multi-processing
@@ -169,7 +168,8 @@
 * Virtualization
   - 가상화
   - 하나의 machine에서 다양한 OS 를 제공함
-![Virtualization](../images/01_5.png)
+
+![Virtualization](https://github.com/philhoonoh/os/blob/main/images/01_5.png)
 
 * Computing Environments
   - Traditional Computing
@@ -191,8 +191,8 @@
   - Resource allocation
   - Logging
   - Protection and security 
-
-![Operating System Services](../images/01_6.png)
+  
+![Operating System Services](https://github.com/philhoonoh/os/blob/main/images/01_6.png)
 
 * Operating-System Interface
   - Three fundamental ways for users to interface with the OS
@@ -211,5 +211,6 @@
     - 예) standard C library 로 system call interface 호출
   - provide an interface to the services made available by the OS.
   - API: Application Programming Interface
-![System Calls](../images/01_7.png)
+
+![System Calls](https://github.com/philhoonoh/os/blob/main/images/01_7.png)
 
