@@ -10,5 +10,5 @@
 
 * 정보란?
   - An information is can be defined as a __quantitative representation that measures the uncertainty__
-  - $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+  - $x = -\log_{2}{P(x)}$
 
