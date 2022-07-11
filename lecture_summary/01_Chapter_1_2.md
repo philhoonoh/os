@@ -17,4 +17,4 @@
     - 알파벳은 총 26글자 이므로 $I(x) = -\log_{2}{26} < 5$ 즉 약 5bit 로 표현 가능
   - Shannon entropy
     $$ H(X) = -\sum_{i=1}^{n} P(x_{i})log_{2}{P(x_{i})} $$
-    - $ H(X) = -E_{X~P}{I(X)} = -E_{X~P}{log{P(X)}} $
+    $$ H(X) = -E_{X~P}{I(X)} = -E_{X~P}{log{P(X)}} $$
