@@ -10,3 +10,11 @@ images/01_5.png filter=lfs diff=lfs merge=lfs -text
 images/01_6.png filter=lfs diff=lfs merge=lfs -text
 images/01_7.png filter=lfs diff=lfs merge=lfs -text
 lecture_pdf/Ch.03_Processes(1).pdf filter=lfs diff=lfs merge=lfs -text
+images/02_1.png filter=lfs diff=lfs merge=lfs -text
+images/02_2.png filter=lfs diff=lfs merge=lfs -text
+images/02_3.png filter=lfs diff=lfs merge=lfs -text
+images/02_4.png filter=lfs diff=lfs merge=lfs -text
+images/02_5.png filter=lfs diff=lfs merge=lfs -text
+images/02_6.png filter=lfs diff=lfs merge=lfs -text
+images/02_7.png filter=lfs diff=lfs merge=lfs -text
+images/02_8.png filter=lfs diff=lfs merge=lfs -text
