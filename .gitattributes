@@ -27,3 +27,4 @@ images/03_4.png filter=lfs diff=lfs merge=lfs -text
 images/03_5.png filter=lfs diff=lfs merge=lfs -text
 images/03_7.png filter=lfs diff=lfs merge=lfs -text
 images/03_2.png filter=lfs diff=lfs merge=lfs -text
+lecture_pdf/Ch.03_Processes(2).pdf filter=lfs diff=lfs merge=lfs -text
