@@ -37,3 +37,4 @@ images/04-6.png filter=lfs diff=lfs merge=lfs -text
 images/04-7.png filter=lfs diff=lfs merge=lfs -text
 images/04-8.png filter=lfs diff=lfs merge=lfs -text
 images/04-9.png filter=lfs diff=lfs merge=lfs -text
+images/java.png filter=lfs diff=lfs merge=lfs -text
