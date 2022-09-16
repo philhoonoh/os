@@ -58,3 +58,4 @@ images/5-14.png filter=lfs diff=lfs merge=lfs -text
 lecture_pdf/Ch.04_Threads.pdf filter=lfs diff=lfs merge=lfs -text
 lecture_pdf/Ch.05_CPU.scheduling.pdf filter=lfs diff=lfs merge=lfs -text
 lecture_pdf/Ch.06_Synchronization.Tools(1).pdf filter=lfs diff=lfs merge=lfs -text
+lecture_pdf/Ch.06_Synchronization.Tools(2).pdf filter=lfs diff=lfs merge=lfs -text
